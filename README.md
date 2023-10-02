@@ -8,7 +8,6 @@ This repo is a companion to the [Spring Academy Sample Course repository](https:
 
 - [ ] Duplicate this repository and use it as a basis or reference for your own course code repository.
 - [ ] Set the visibility of this repo to Public
-- [ ] Make sure `scripts/stage-codebase.sh` has executable permissions
 - [ ] Create and push a branch named `prod`
 
 ### Branches and environments 
